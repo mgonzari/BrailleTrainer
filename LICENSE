@@ -1,4 +1,82 @@
-                                 Apache License
+# LICENSE / LICENCIA
+
+## 📘 License Summary (English)
+
+This project is licensed under two components:
+
+1. **Apache License 2.0** – applies to the code, electronics, and hardware schematics.  
+2. **Creative Commons Attribution 4.0 International (CC BY 4.0)** – applies to all documentation, images, visual designs, and educational content.
+
+By using this project, you agree to:
+
+- Attribute the original author (Marcela Gonzales) in any copies or derivative works.
+- Keep any applicable patent rights open as outlined in the Apache License.
+- Share your improvements under similar terms if possible (though not mandatory).
+
+### Apache License 2.0 (Code + Hardware)
+
+You are free to:
+- Use, modify, and distribute the source code and hardware files
+- Use them commercially or educationally
+- Integrate them into other systems
+
+Provided that:
+- You give appropriate credit to the original author
+- You include a copy of this license
+- You don’t try to restrict others from using your modifications
+
+### Creative Commons BY 4.0 (Docs + Designs)
+
+You may:
+- Copy, share, and adapt the documentation
+- Use designs and images in your own materials
+
+As long as:
+- You credit the author
+- You indicate if changes were made
+
+---
+
+## 📗 Resumen de Licencia (Español)
+
+Este proyecto está bajo dos licencias complementarias:
+
+1. **Licencia Apache 2.0** – para el código, electrónica y esquemas de hardware.  
+2. **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)** – para la documentación, imágenes, diseños visuales y contenido educativo.
+
+Al usar este proyecto, aceptas:
+
+- Atribuir la autoría original a Marcela Gonzales en cualquier copia o derivación.
+- Respetar la cláusula de patentes abierta de la licencia Apache.
+- Compartir mejoras bajo términos similares si así lo deseas (no es obligatorio).
+
+### Licencia Apache 2.0 (Código + Hardware)
+
+Puedes:
+- Usar, modificar y distribuir el código fuente y los archivos de hardware
+- Usarlos con fines comerciales o educativos
+- Integrarlos en otros sistemas
+
+Siempre que:
+- Des el crédito correspondiente a la autora original
+- Incluyas una copia de esta licencia
+- No restrinjas el uso por parte de terceros
+
+### Creative Commons BY 4.0 (Documentos + Diseños)
+
+Puedes:
+- Copiar, compartir y adaptar la documentación
+- Usar los diseños y las imágenes en tus propios materiales
+
+Siempre que:
+- Menciones a la autora
+- Indiques si realizaste cambios
+
+---
+
+
+
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -186,7 +264,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2025] [Marcela Gonzales Arias]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -199,3 +277,5 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+© 2024–2025 Marcela Gonzales. All rights reserved under the terms above.
