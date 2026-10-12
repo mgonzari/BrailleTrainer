@@ -30,7 +30,7 @@
     viewer.querySelectorAll('.hotspot').forEach(e=>e.remove());
     data.points.forEach((p,i)=>{
       const b=document.createElement('button'); b.type='button';b.className='hotspot';b.slot='hotspot-'+i;
-      b.dataset.position=p.position;b.dataset.normal=p.normal;b.setAttribute('data-visibility-attribute','data-visible');
+      b.dataset.position=p.position;b.dataset.normal=p.normal;b.setAttribute('data-visibility-attribute','visible');
       b.textContent=String(i+1);b.title=p[language];b.setAttribute('aria-label',`${i+1}. ${p[language]}`);
       b.addEventListener('click',()=>{$('#viewer-status').textContent=`${i+1}. ${p[language]}`;});viewer.append(b);
     });
